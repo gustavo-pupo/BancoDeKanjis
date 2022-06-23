@@ -1,0 +1,22 @@
+{
+  "kanjis": [
+    {
+      "ideograma": "花",
+      "romaji": "hana",
+      "significado": "flor",
+      "id": 1
+    },
+    {
+      "ideograma": "心",
+      "romaji": "kokoro",
+      "significado": "coração",
+      "id": 2
+    },
+    {
+      "ideograma": "君",
+      "romaji": "kimi",
+      "significado": "você",
+      "id": 3
+    }
+  ]
+}

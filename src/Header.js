@@ -6,7 +6,7 @@ export default function Header(props) {
         <header className="header">
             <img className="japao" src={japanFlag} alt="" />
             <h1 className="titulo">Banco de Kanjis</h1>
-            <p className="qtdKanjis">Kanjis Descobertos: 100</p>
+            <p className="qtdKanjis">Kanjis Descobertos: {props.kanjis.length}</p>
         </header>
     )
 }
