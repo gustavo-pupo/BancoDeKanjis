@@ -1,4 +1,6 @@
-Um banco de palavras em japonês com cards exibindo o ideograma, o romaji(fonemas escritos no alfabeto ocidental) e o significado de cada uma das palavras para facilitar a memorização, coloquei também uma barra de pesquisa para caso a lista fique grande demais, essa barra de pesquisa responde tanto ao romaji quanto ao significado das palavras. Meu primeiro projeto original em React fiz ele para consolidar tudo o que já aprendi até agora e parece que está funcionando bem, minha primeira vez colocando chamadas de API em um projeto e funcionou (surpreendente bem).
+Um banco de palavras em japonês com cards exibindo o ideograma, o romaji(fonemas escritos no alfabeto ocidental) e o significado de cada uma das palavras para facilitar a memorização, coloquei também uma barra de pesquisa para caso a lista fique grande demais, essa barra de pesquisa responde tanto ao romaji quanto ao significado das palavras. 
+
+Esse é meu primeiro projeto original em React, fiz ele para consolidar tudo o que já aprendi até agora e parece que está funcionando bem, minha primeira vez colocando chamadas de API em um projeto e funcionou (surpreendente bem).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
