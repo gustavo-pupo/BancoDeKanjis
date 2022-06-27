@@ -18,7 +18,7 @@ export default function Form(props){
     return(
         <form 
         className="form"
-        onSubmit={event => props.handleSubmit(event, formData)}
+        onSubmit={event => props.handleSubmit(event, formData, setFormData)}
         >
             <input
                 type="text" 
@@ -26,7 +26,7 @@ export default function Form(props){
                 onChange={handleChange}
                 placeholder="Kanji"
                 name="ideograma"
-                value={formData.kanji}
+                value={formData.ideograma}
             />
             <input
                 type="text" 
@@ -45,11 +45,6 @@ export default function Form(props){
                 value={formData.significado}
             />
             <button className="addKanji">Adicionar Kanji</button>
-            <input
-                type="text"
-                className="pesquisa"
-                placeholder="Pesquisar"
-            />
         </form>
     )
 }

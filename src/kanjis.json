@@ -1,12 +1,6 @@
 {
   "kanjis": [
     {
-      "ideograma": "花",
-      "romaji": "hana",
-      "significado": "flor",
-      "id": 1
-    },
-    {
       "ideograma": "心",
       "romaji": "kokoro",
       "significado": "coração",
@@ -17,6 +11,18 @@
       "romaji": "kimi",
       "significado": "você",
       "id": 3
+    },
+    {
+      "ideograma": "花",
+      "romaji": "hana",
+      "significado": "flor",
+      "id": 4
+    },
+    {
+      "ideograma": "私",
+      "romaji": "watashi",
+      "significado": "eu",
+      "id": 6
     }
   ]
 }
